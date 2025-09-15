@@ -30,3 +30,14 @@ p {
 h1 {
     background-color: aquamarine;
 }
+a:focus {
+    background-color: aquamarine;
+}
+
+a:hover {
+    text-decoration: solid;
+}
+
+a:active {
+    color: aquamarine;
+}
