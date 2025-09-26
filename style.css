@@ -54,4 +54,21 @@ ul {
     
 }
 
+<<<<<<< HEAD
 /* lo ultimo que escriba va a tener prioridad */
+=======
+h1 {
+    background-color: aquamarine;
+}
+a:focus {
+    background-color: aquamarine;
+}
+
+a:hover {
+    text-decoration: solid;
+}
+
+a:active {
+    color: aquamarine;
+}
+>>>>>>> refs/remotes/origin/main
